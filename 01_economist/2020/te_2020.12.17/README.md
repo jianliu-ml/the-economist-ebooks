@@ -1,9 +1,9 @@
-# TheEconomist.2020.12.19
+# TheEconomist.2020.12.17
 --------------
 ## 一、下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.12.19/TheEconomist.2020.12.19.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.12.19/TheEconomist.2020.12.19.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.12.19/TheEconomist.2020.12.19.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.12.17/TheEconomist.2020.12.17.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.12.17/TheEconomist.2020.12.17.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.12.17/TheEconomist.2020.12.17.pdf)
     
 ## 音频下载
 

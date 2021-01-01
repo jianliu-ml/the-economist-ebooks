@@ -1,9 +1,9 @@
-# TheEconomist.2020.11.05
+# TheEconomist.2020.11.12
 --------------
 ## 一、下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.05/TheEconomist.2020.11.05.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.05/TheEconomist.2020.11.05.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2020.11.05/TheEconomist.2020.11.05.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.11.12/TheEconomist.2020.11.12.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.11.12/TheEconomist.2020.11.12.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/2020/te_2020.11.12/TheEconomist.2020.11.12.pdf)
     
 ## 二、打赏 - JUST FOR FUN
 > * 打赏一杯咖啡, 金额随意,感谢大家~ :)
