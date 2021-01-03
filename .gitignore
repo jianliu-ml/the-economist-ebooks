@@ -16,3 +16,4 @@ images/
 *.pyc
 core.*
 guardian_shells/
+*.log

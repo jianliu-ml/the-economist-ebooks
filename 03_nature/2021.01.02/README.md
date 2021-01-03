@@ -1,9 +1,9 @@
 # 
 --------------
 ## 一、下载
-* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/.mobi) 
-* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/.epub)
-* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/.pdf)
+* [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/nature_2021.01.02.mobi) 
+* [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/nature_2021.01.02.epub)
+* [下载 pdf 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/./03_nature/2021.01.02/nature_2021.01.02.pdf)
     
 ## 二、打赏 - JUST FOR FUN
 > * 打赏一杯咖啡, 金额随意,感谢大家~ :)
