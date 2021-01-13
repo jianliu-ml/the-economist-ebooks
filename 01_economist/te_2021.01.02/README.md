@@ -1,5 +1,7 @@
 # TheEconomist.2021.01.02
 --------------
+官网地址[emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 资源更多,可下载、订阅杂志!
+
 ## 一、下载
 * [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2021.01.02/TheEconomist.2021.01.02.mobi) 
 * [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/01_economist/te_2021.01.02/TheEconomist.2021.01.02.epub)

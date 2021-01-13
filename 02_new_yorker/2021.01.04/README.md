@@ -1,5 +1,7 @@
 # new_yorker.2021.01.04
 --------------
+官网地址[emagazines.site](https://emagazines.site/), 资源更多,可下载、订阅杂志!
+
 ## 一、下载
 * [下载 mobi 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2021.01.04/new_yorker.2021.01.04.mobi) 
 * [下载 epub 格式](https://raw.githubusercontent.com/hehonghui/the-economist-ebooks/master/02_new_yorker/2021.01.04/new_yorker.2021.01.04.epub)
