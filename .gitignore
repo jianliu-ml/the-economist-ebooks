@@ -20,3 +20,4 @@ guardian_shells/
 tmp
 *.jar
 ny_audios.json
+./*.epub
