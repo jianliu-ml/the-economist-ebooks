@@ -1,10 +1,9 @@
 # 经济学人、纽约客、自然等外刊杂志下载
-
-* [English Readme](./README.en.md)
 ---------------------
-[官网地址 - www.emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 可下载、订阅杂志!另外`经济学人2020年52期mobi、epub、pdf版`已出,[打包资源请点击这里](https://emagazines.site/te_2020)
 
-* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.02.13) , 每周五十一点更新, 支持<a href="#subscribe">订阅</a>. 下载音频请移步到[这里][te_audio] 
+**声明:** 本项目资源均来自 [emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源。
+
+* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.02.13) , 每周五十一点更新
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2021.02.15) , 每周六上午更新, 支持订阅.
 * [卫报 - 每周两期](09_guardian/), 每周三、周日更新, 支持<a href="#subscribe">订阅</a>. 
 * [Nature - 周刊](03_nature), 每周六下午更新, 支持订阅
@@ -23,23 +22,9 @@
 * [考研英语题源分析，看看题目来自于哪里](https://zhuanlan.zhihu.com/p/25051680)
 * [2018英语外刊大合集](https://zhuanlan.zhihu.com/p/54181221)
 
-[te_audio]: https://github.com/hehonghui/the-economist-ebooks/wiki/te_audios_2021
-
-## 一、如何手动下载
-
-进入杂志的某一期中, 例如点击上面的 [01_economist](01_economist/), 再点击进入某一期目录 (通常最新的杂志在网页最下面), 点击以 `mobi` 或者 `epub`结尾的文件, 进入类似于如下所示的页面 [TheEconomist_2018-12-29.mobi](https://github.com/hehonghui/the-economist-ebooks/blob/master/01_economist/2018/te_2018-12-29/TheEconomist_2018-12-29.mobi), 然后点击右边的 `download` 按钮进行下载.
-
-
-<a id="subscribe"></a>
-## 二、订阅 - 支持kindle与邮箱订阅
-
-1. `kindle设备订阅杂志推送` : 每周将mobi格式的电子书推送到`kindle阅读器`或者`kindle阅读app`
-2. `邮箱订阅`: 每周将指定格式的杂志发送到你订阅的邮箱;
-
-需要订阅的同学请移步[www.emagazines.site](http://emagazines.site/subscribe?utm_source=github&utm_medium=github&utm_campaign=github).
 
 -------------------------------------
-## 三、阅读器说明
+## 二、阅读器说明
 
 1. epub 格式的电子书可以安装 [多看阅读](https://www.duokan.com/product) ,  通过 `wifi传书功能` 通过浏览器将电子书传入到阅读器中, 然后就可以进行阅读;
 2. mobi 格式的电子书需要使用 `kindle设备` 或者在电脑、手机上安装 [kindle 阅读app](https://www.amazon.cn/kindle-dbs/fd/kcp/ref=sv_kinc_0)
