@@ -1,12 +1,12 @@
 # 经济学人、纽约客、自然等外刊杂志下载
 ---------------------
 
-**声明:** 本项目资源均来自 [emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源。
+**声明:** 本项目资源均来自 [emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源, 如需下载、订阅相关杂志可移步上述网站.
 
 * [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.02.13) , 每周五十一点更新
-* [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2021.02.15) , 每周六上午更新, 支持订阅.
-* [卫报 - 每周两期](09_guardian/), 每周三、周日更新, 支持<a href="#subscribe">订阅</a>. 
-* [Nature - 周刊](03_nature), 每周六下午更新, 支持订阅
+* [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2021.02.15) , 每周六上午更新
+* [卫报 - 每周两期](09_guardian/), 每周三、周日更新
+* [Nature - 周刊](03_nature), 每周六下午更新
 * [New Scientitst(新科学人) - 周刊](06_new_scientist/), 每周日上午更新
 * [Newsweek - 新闻周刊](./08_newsweek), 每周日更新
 * [Scientific American - 月刊](07_scientific_american), 每月25号更新
@@ -28,4 +28,3 @@
 
 1. epub 格式的电子书可以安装 [多看阅读](https://www.duokan.com/product) ,  通过 `wifi传书功能` 通过浏览器将电子书传入到阅读器中, 然后就可以进行阅读;
 2. mobi 格式的电子书需要使用 `kindle设备` 或者在电脑、手机上安装 [kindle 阅读app](https://www.amazon.cn/kindle-dbs/fd/kcp/ref=sv_kinc_0)
-
