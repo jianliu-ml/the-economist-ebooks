@@ -3,7 +3,7 @@
 
 **声明:** 本项目资源均来自 [emagazines.site](https://emagazines.site/?utm_source=github&utm_medium=github&utm_campaign=github), 本项目只转存部分资源, 如需下载、订阅相关杂志可移步上述网站.
 
-* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.02.13) , 每周五十一点更新
+* [经济学人 - 周刊, 点击这里下载最新一期](01_economist/te_2021.02.20) , 每周五十一点更新
 * [纽约客 - 周刊, 点击这里下载最新一期](02_new_yorker/2021.02.15) , 每周六上午更新
 * [卫报 - 每周两期](09_guardian/), 每周三、周日更新
 * [Nature - 周刊](03_nature), 每周六下午更新
